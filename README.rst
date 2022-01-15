@@ -1,4 +1,11 @@
 ======================================
+ What I did :
+======================================
+
+I just added to chr() to cast the text from the ducky script to char.
+I'm not sure that was a good idea and may bring new problems, but it allowed my code to work, so... Probably Good ?
+
+======================================
  duck2spark by MaMe82 (Marcus Mengs)
 ======================================
 
